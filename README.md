@@ -1,7 +1,15 @@
 # Candy-Brand-Full-Stack-Application
 
-![alt text](https://github.com/michaellay2022/Omikuji-Form/blob/master/form.JPG?raw=true)
+## Full Stack Web Application using Java with Spring Boot framework. 
 
-https://github.com/michaelnlay/Candy-Brand-Full-Stack-Application/blob/master/Spring.JPG
+![alt text](https://github.com/michaelnlay/Candy-Brand-Full-Stack-Application/blob/master/dashboard.JPG?raw=true)
 
-https://github.com/michaelnlay/Candy-Brand-Full-Stack-Application/blob/master/mySQL.JPG
+![alt text](https://github.com/michaelnlay/Candy-Brand-Full-Stack-Application/blob/master/Spring.JPG?raw=true)
+
+![alt text](https://github.com/michaelnlay/Candy-Brand-Full-Stack-Application/blob/master/mySQL.JPG?raw=true)
+
+
+
+
+
+
